@@ -1,0 +1,40 @@
+
+************************************ Application Started************************************** ********** on February 04,2021 at 19:27:45 
+
+###---###---###----###------------          USER HAS OPT FOR LOCAL MACHINE     -------- ###---###---###----###--- on February 04,2021 at 19:27:47 
+
+User CHECKED Status of  Service --- B on February 04,2021 at 19:27:48 
+
+User CHECKED Status of  Service --- Bi on February 04,2021 at 19:27:48 
+
+User CHECKED Status of  Service --- Bit on February 04,2021 at 19:27:49 
+
+User CHECKED Status of  Service ---- Bits on February 04,2021 at 19:27:49 
+
+User STARTED Service --- Bits on February 04,2021 at 19:27:50 
+
+User RESTARTED Service --- Bits on February 04,2021 at 19:27:52 
+
+ ###---###---###----###----------------      USER HAS OPT FOR REMOTE MACHINE ---------- ###---###---###----###--- on February 04,2021 at 19:27:57 
+
+(: User has Requested to make Connection with Remote Machine with IP Address 192 and Machine Name as 1 on February 04,2021 at 19:28:01 
+
+ Connection with Remote Machine with IP Address 192 and Machine Name as 1 is ***Failed*** on February 04,2021 at 19:28:06 
+
+************************************ Application Started************************************** ********** on February 04,2021 at 19:28:10 
+
+ ###---###---###----###----------------      USER HAS OPT FOR REMOTE MACHINE ---------- ###---###---###----###--- on February 04,2021 at 19:28:11 
+
+(: User has Requested to make Connection with Remote Machine with IP Address 192.168.43.101 and Machine Name as Administrator on February 04,2021 at 19:28:29 
+
+ Connection with Remote Machine with IP Address 192.168.43.101 and Machine Name as Administrator is ***SuccessFull*** on February 04,2021 at 19:28:31 
+
+User CHECKED Status of  Service --- B on February 04,2021 at 19:28:35 
+
+User CHECKED Status of  Service --- Bi on February 04,2021 at 19:28:35 
+
+User CHECKED Status of  Service --- Bit on February 04,2021 at 19:28:36 
+
+User CHECKED Status of  Service --- Bits on February 04,2021 at 19:28:36 
+
+User STARTED Service on Remote Machine  --- Bits on February 04,2021 at 19:28:38 
